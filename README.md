@@ -10,7 +10,7 @@ The first day provides an introduction to the fundamentals of the web: HTML, CSS
 
 ## Getting set up
 
-### 1. Required software
+### 1. Required software -
 
 Before starting, make sure your computer has up-to-date versions of the following installed:
 
@@ -23,13 +23,13 @@ Before starting, make sure your computer has up-to-date versions of the followin
 
 ### 2. Installing and opening the project
 
-- Open VS Code and then press ```ctrl + ` ``` (backtick, in top left corner of keyboard) to open the built-in terminal
+- Open VS Code and then press `` ctrl + `  `` (backtick, in top left corner of keyboard) to open the built-in terminal
 - Use the `cd` (change directory) command to find an appropriate place for your code
 - Type `git clone https://github.com/Microsoft/frontend-bootcamp.git` into the terminal to pull down a copy of the workshop code
 - Type `cd frontend-bootcamp` to change your current directory to the bootcamp folder
 - Type `npm install` to install all of the project dependencies
 - Type `code -r .` to open the bootcamp code in VS Code
-> If on a Mac, be sure you've followed [these steps](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) first to make the `code` command available.
+  > If on a Mac, be sure you've followed [these steps](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) first to make the `code` command available.
 
 ### 3. Run the "inner loop" build
 
@@ -38,6 +38,7 @@ At this point, your VS Code window should look something like this:
 <img src="https://user-images.githubusercontent.com/1434956/53654442-9c379400-3c02-11e9-8768-d19e092b606d.png" width=500 />
 
 To start the dev "inner loop," run:
+
 ```
 npm start
 ```
@@ -51,7 +52,7 @@ This will load the site shown below.
 1. Demos will either be via CodePen (Steps 1, 2 and 3) or done in the step folder. Follow the step README to walkthrough the demo.
 
 2. Much like demos, exercises are done via CodePen or in the project step folders. These exercises will give you an opportunity to try what was demonstrated in the first step.
-  
+
 ## What to expect
 
 For each lesson, the presenter will walk through some demo code to teach core concepts about the topic. Don't worry about writing code at this point. Just follow along via the readmes linked below.
@@ -81,8 +82,8 @@ Day one covers the basics of HTML, CSS and JavaScript, as well as an introductio
 
 ### Bonus content
 
-* [Redux: Service calls](bonus-servicecalls)
-* [Testing with Jest](bonus-jest)
+- [Redux: Service calls](bonus-servicecalls)
+- [Testing with Jest](bonus-jest)
 
 ## Additional resources
 
